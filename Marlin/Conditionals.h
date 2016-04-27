@@ -27,6 +27,8 @@
 
 #ifndef CONDITIONALS_H
 
+#include "Configuration.h"
+
 /**
 * Miscellaneous
 */
